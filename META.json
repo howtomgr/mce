@@ -1,0 +1,65 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.146419",
+  "default_ports": [
+    8096,
+    8989,
+    7878,
+    9696,
+    8080
+  ],
+  "dependencies": [
+    "python3",
+    "ffmpeg",
+    "mediainfo"
+  ],
+  "description": "MCE (Media Center Enterprise) is a comprehensive media server solution that combines multiple FOSS tools to create a complete home entertainment system. It includes Jellyfin for media streaming, Sonarr/Radarr for content management, and various download clients, serving as a FOSS alternative to commercial solutions like Kaleidescape or Control4.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/mce",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/mce",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.146442",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "mce",
+  "repository_url": "https://github.com/howtomgr/mce",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "media-center",
+    "streaming",
+    "entertainment",
+    "media-management",
+    "home-theater"
+  ],
+  "title": "MCE (Media Center Enterprise) Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/mce"
+}
